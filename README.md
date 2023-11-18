@@ -1,4 +1,4 @@
-<h1>Classification Models 🌟🌟🌟</h1>
+<h1 algend="center>Classification Models 🌟🌟🌟</h1>
 
 Within this directory, you'll find diverse projects in the realm of supervised machine learning, specifically focusing on classification tasks. The workflow is structured and employs various tools to ensure the success of these projects:
 
